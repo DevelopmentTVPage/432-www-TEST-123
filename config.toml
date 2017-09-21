@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "asdfasdf"
+baseURL = "https:\/\/www.TEST.123"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758403"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "TEST.123"
